@@ -1,0 +1,35 @@
+#container{
+    display:flex;
+    width:100%;
+   
+}
+.item{
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    width:25%;
+    margin:10px;
+    height:100%;
+
+}
+.item_tag{
+    font-size: 10px;
+    border:0px;
+    margin:0px;
+}
+.similar_product_sign{
+    display: flex;
+    justify-content: flex-end;
+    align-items: right;
+    border-left:75%;
+}
+#d1{
+    background-color: #252525;
+    width: 100%;
+    margin: 0px;
+    padding: 20px;
+    font-family:"Noto Sans", sans-serif;
+    color: white;
+    box-sizing: border-box;
+
+}
+
+
